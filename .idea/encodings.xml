@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code for COLING2016/svm_classify" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nlpcc_emotion_detection/stopwords/HIT_stopwords.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/nlpcc_emotion_detection/stopwords/SCU_stopwords.txt" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/nlpcc_emotion_detection/stopwords/chinese_stopwords.txt" charset="GB18030" />
+  </component>
+</project>

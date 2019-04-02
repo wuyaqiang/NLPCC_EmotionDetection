@@ -1,0 +1,3045 @@
+<Post ID="1">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	碎觉 ~ 明天 需要 处理 一些 我 很 不 愿意 处理 的 事儿 ， anyway 。 。 。 good luck 。 。 。
+	</Content>
+</Post>
+
+<Post ID="2">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	呦 ， 这 不 是 那 谁 么 ？ 被g-man 选中 了 吗 ？ 哈哈哈 ， 恭喜 啊 。
+	</Content>
+</Post>
+
+<Post ID="3">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	在 the coffee bean ， 今天 狀態 不 佳 ， 很 困
+	</Content>
+</Post>
+
+<Post ID="4">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	马上 就 放假 了 ， 还 不 能 消停片刻 。 吃喝玩乐 各自 对 号入 座 ， 咱 就 对 着ps 与 ai涂 来 抹 去 ， 为了 明天 画 个 句号 ， 头疼 也 得 hold住 完成 任务 。
+	</Content>
+</Post>
+
+<Post ID="5">
+	<Happiness>
+	EN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	这里 的 的士 司机 都 很 nice 啊 ， 记得 昨天 去 友谊路 是 62 元 的 ， 司机 说 刚才 有 警察 ， 他 兜 了 个 弯 ， 给 他 60 就 可以 了 。 爸 说 有 零钱 ， 62 没 问题 ， 司机 说 是 怎样 就 该 怎么样 。 很 久 没 见 这样 的 司机 了
+	</Content>
+</Post>
+
+<Post ID="6">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	forward : 记住 ， 宁可 装 傻 ， 也 不 要 自作 聪明 。 宁可 辛苦 ， 也 不 要 贪图 享乐 。 宁可 装穷 ， 也 不 要 炫耀 财富 。 宁可 光输 ， 也 不 要 只 赢 不 输 。 宁可 吃亏 ， 也 不 要 占 小 便宜 。 宁可 平庸 ， 也 不 要 沽名 钓誉 。 宁可 自信 ， 也 不 要 盲目 悲观 。 宁要 健康 ， 也 不 要 功名 利禄 。 宁可 勤奋 ， 也 不 能 无所事事 。 宁可 偏执 ， 也 不 能 放弃 理想
+	</Content>
+</Post>
+
+<Post ID="7">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	道歉 并不 是 不 停 講sorry 就 可以 得到 原諒 ； 愛情 并不 是 不 停 講i love u ， 就 可以 得到 真愛 。 如果 三 言 两 語 就 可以 解决 問題 ， 这 個 世界 會 有 更 多 的 問題 ， 因為 大家 會 更 肆無 忌憚 的 去 犯錯 。
+	</Content>
+</Post>
+
+<Post ID="8">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	关于 买 衣服 ： 别人 家会 打扮 的 姑娘 都 是 在 错 买 了 无数 件 衣服 错花 了 无数 的 人民币 错交 了 无数 的 男朋友 之后 才 找到 自己 的 style 的 ， 爹 妈 你们 别急 。
+	</Content>
+</Post>
+
+<Post ID="9">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	windows phone 7 marketplace 应用 数量 突破 6万 ： 就 在 达到 5万 应用 的 25 天 以后 ， windows phone 7 marketplace 应用 数量 又 多 了 1万 ， 目前 有 超过 15000 个 不同 的 开发方 在 marketplace发布 自己 的 应用 ， 增长 速度 正 不断 变快 ， 之前 从 4万 到 5万 一共 用 了 40天 。
+	</Content>
+</Post>
+
+<Post ID="10">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	看到 薛 老 爷子 微博 贴出 的 这 几 张 图 ， 顿时 激动 了 。 这 不 就 像 当年 jobs 和 gate 的 经典 场景 么 ～ ！ ps爱好者 们 ， 动手 吧 ！  btw ： 薛老 是 我 很 敬重 的 ， 此 图 纯属 搞笑 ， 没有 任何 不 敬 之 意 。 还 请 包涵 。
+	</Content>
+</Post>
+
+<Post ID="11">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	很多 事情 不 是 你 不 喜欢 就 可以 不 做 ， 要 在 这个 社会 立足 ， 就 必须 去 适应 ， ， just do i t
+	</Content>
+</Post>
+
+<Post ID="12">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	請 各位 務必 在 頭腦 清醒 的 情況 下 才 觀 看 電影 《 遁入 虛無 》 ， 我 覺 得 我 要 bad trip一 個月 了
+	</Content>
+</Post>
+
+<Post ID="13">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	有些 不 开心 ， 自己 居然 掉 起 眼泪 了 。 不过 斯佳丽 说 过 ， 我 哭 过 了 ， tomorrow is the other day. 心情 真的 好 了 很 多 。
+	</Content>
+</Post>
+
+<Post ID="14">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	美国 舍友 说 她 要 给 我 讲 个 chinese 故事 ， 然后 名字 叫做 farm and lang 。 我 想 了 半 天 ， 这 也 太 中西 结合 了 ， 莫非 是 农夫 与 狼 的 故事 ? ? ? 后来 她 讲 的 情节 越来越 熟悉 了 ， 而且 主人 公还 是 个 女的 。 。 。 。 。 再 后来 ， 我 知道 她 在 讲 啥 了 ， 竟然 是 。 。 。 。 。 花木兰 ！ ！ ！ ！
+	</Content>
+</Post>
+
+<Post ID="15">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 干 你 吗 批 的 ， 怎么 那么 不 安分 ， 我 觉得 我 自己 很 安分 了 我 不 像 以前 那样 花心 一 天 去 找 去 说 ， 事 不过 三 啊 我 他妈的 要 失望 几 次 伤心 几 次 ， 我 日 你 吗 的 ， 土 狗 一 只 老子 把 你 全家 吊 起来 放火 炮 ， 去 你 妈 的 包皮 龙 ！ 你 别 以为 你 有 点 hot 你 就 是 韩国 帅哥 ， 老子 打死 求 你 爸爸 ！ 还有 你 ！ 我 关心 你 的 什么 我 不 在 过问
+	</Content>
+</Post>
+
+<Post ID="16">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	BOTH
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	final destination 3 ： 我 想 .... 大概 看 完 这个 ， 我 过 年 就 不 敢 坐 云霄飞车 什么 的 了 ..... 晚上 不 要 去 游乐园 呐 .........dangerous ！ ！ ！ ！ ！ ！ ！ ！
+	</Content>
+</Post>
+
+<Post ID="17">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	在 工厂 做 打工妹 太 久 ， 来到 cbd看 到ol们 大 冷天 都 穿超 短裙 ^ _ ^ | | 真 是 out 了 。 btw ， 天河 比 番禺 完 冷 上 几 度 …
+	</Content>
+</Post>
+
+<Post ID="18">
+	<Happiness>
+	EN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	大年初六 ， 我 回门儿 的 日子 。 已经 五 个 多 月 的 身孕 ， 经 不 起 折腾 ， 喜宴 尽量 从 简 ， 没有 礼服 ， 去掉 所有 繁复 的 仪式 ， 只 略施 了 些 脂粉 ， 出门 前 还 小 焦虑 了 一下 自己 这 新娘 未免 也 太 朴素 了 。 不过 一 到 宴会 ， 马上 就 high 了 。
+	</Content>
+</Post>
+
+<Post ID="19">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	第一 次 过 年 不 在 家~~ 但是 、 在 国外 还是 有 人 陪 着 偶 老师们 太 好 了 ~ ~ 想 着 chinese new year  以及 各 种 decorations 现在 —— 期待 maksim北京 春晚 ！ ！ ！
+	</Content>
+</Post>
+
+<Post ID="20">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	一大早 起 床 周 小姐 要求 玩ipad 实在 抵挡 不 住 她 的 纠缠 把 ipad交 给 她 的 时候 她 突然 说 了 句 ： ipad ， ipad ， i love u
+	</Content>
+</Post>
+
+<Post ID="21">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	MIXED
+	</Surprise>
+	<Content>
+	这 球 太 牛 了 。 。 。 hold 不 住 啊 ！
+	</Content>
+</Post>
+
+<Post ID="22">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	这个 点 就 来 买 醉 「 今夜 不 回家 」 姐今夜 要 回家 ， 好烈 的 酒 ， hold住 了
+	</Content>
+</Post>
+
+<Post ID="23">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	BOTH
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	最近 的 烦事 还 真 多 ， 一 波 未 平 一 波 又 起 ..... 昨晚 做 了 个 貌似 很 真实 的 噩梦 ， 梦醒 同 冰讲 ， 冰说 日后 真的 可能 有 这个 画面 也 不 一定 ， 心情 突然 down 了 下来 ！ maybe ， 我 自己 又 犯 傻 了 ~ ~ ！
+	</Content>
+</Post>
+
+<Post ID="24">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	BOTH
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	hold 不 住 啊 ， 半 夜 点亮 头衔 ， 小 崽子 是 不 是 开 先例 了 ？ ！  是 不 是 要 在 你 一 统lm 亲妈 后妈 之前 把 你 关小 黑屋 呢 ？ 我 真的 好 想 关丫 的 啊 ！
+	</Content>
+</Post>
+
+<Post ID="25">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	泥马 ， 闹钟 设错 了 ， 真 是 的 ， 年纪 大 了 脑子 不 好 使 ， 晚 了 一 个 小时 ， 好 在 现在 才 3 : 3 . 有 没 有 错过 什么 精彩 镜头 啊 ？ game pass 的 好处 现在 显示 出来 了 。
+	</Content>
+</Post>
+
+<Post ID="26">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	没事儿 又 翻 照片 ， 发现 我 真的 很 爱 换 发型 ， 发现 我 真的 很 久 不 换 发型 了 avril lavigne-wish you were here -
+	</Content>
+</Post>
+
+<Post ID="27">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	just  action ， 游导 说 不 要 想 ， 要 去 做
+	</Content>
+</Post>
+
+<Post ID="28">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	现在 ， 亲爹 亲娘 问起 某些 问题 ， 很 严肃 ， vrey important ! 甚至 让 我 面部 发紫 、 胆战心惊 、 心惊肉跳 、 颤抖 、 心跳 加速 、 浑身 不 自然 、 头晕 目眩 、 喉咙 干咳 、 神经 乱动 、 有 种 想吐 、 马上 跑路 、 拔腿 就 跑 。 相信 所有 毕业 的 同学 都 有 同感 吧 ！ 深表 党 和 人民 同情 我 和 你们 。 佛祖 ！ 求 你 表bi 我 ， 我 快 喷 了 啊 ！ ！ ！ ！ ！ ！ ！ ！ ！
+	</Content>
+</Post>
+
+<Post ID="29">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	第五 版 新增 了 arm cortex-a8 、 intel core i7 、 nvidia gtx-280 和 gtx-480 gpu 的 一些 实例 分析 ， 非常 的 新 ， 如果 想 了解 移动 处理器 的 新 趋势 ， 这 本 书 应该 也 有 比较 好 的 诠释 ， 可惜 我 实在 是 太 忙 了 ， 有 很 多 的 软件 开发 书籍 需要 看 ， 无暇 拾回 我 大学 时 的 兴趣 了 。
+	</Content>
+</Post>
+
+<Post ID="30">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	like crazy ， 第一 感觉 会 是 很 好看 的 片子 ！ 但是 就 怕 对 白 太 多 ， 抓 不 住 男 女 猪 的 情绪 。 为了 拍 这 张 海报 我 站在 滚动 屏 面前 等 了 一 轮 啊
+	</Content>
+</Post>
+
+<Post ID="31">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	要 怪 就 怪 我 在 发现 有 扁桃体 发炎 征兆 的 那 一 秒 不 悬崖 勒马 ， 还 海 吃 各 种 干货 辣货 。 头疼加 嗓子 疼 辗转暗无天日 到 现在 也 算是 充要 条件 了 。 有 午间 电台 这 种 东西 么 ， 应 个景 送姐 一 首 梦 剧院 的 <endless  sacrifice > 吧 ~
+	</Content>
+</Post>
+
+<Post ID="32">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	sg    不 要 总 把 错往 自己 身上 揽 ， 这样 很 傻 ， u know ?
+	</Content>
+</Post>
+
+<Post ID="33">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	在 英国 念完 本科 和 研究生 后 ， 留下来 做 了 两 年 pr 的 工作 ， 英国 男朋友 要 来 中国 就 跟 着 回到 北京 ， 考虑 以后 要 跟 着 男朋友 去 别的 国家 ， 拒掉 了 广告圈 的 工作 来到 这个 全球 office 最 多 的 公司 ； 后来 工作 太 忙 了 没 空 照顾 男朋友 ， 结果 分手 ； 然后 开始 漫无止境 加班 。 ‘ 我 讨厌 审计 我 讨厌 天蝎座 ’ ， ‘ 人生 就 是 个 笑话 ’
+	</Content>
+</Post>
+
+<Post ID="34">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	在 这 有 几 点 要 澄清 : 1 不 是 每 个 空乘 男友 都 是 飞行 也 不 是 每 个 空少 都 是 gay ; 2 不 要 加 了 我 说 是 我 给 你 的 号 ， 被 揭穿 后 承认 \ " 只 是 想 试探 这个 圈 是否 像 别人 说 的 那么 乱 ， 只要 要 空姐 就 给 号 随便 约 出来 玩 \ " 我 不 知 你 哪 搞 来 的 号 我 在 机上 从 不 留 号码 ; 其次 你 的 试探 令 我 恶心 ， 反正 凭 你 是 约 不 出 我 黑名单 倒 有 你 一席之地
+	</Content>
+</Post>
+
+<Post ID="35">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	< sunny > ( 阳光 姐妹 淘 ) 的确 是 2011年 不 可 错过 的 10 部 影片 ， 大家 不 可 被 它 的 中文 翻译 名 《 阳光 姐妹 淘 》 给 欺骗 了 ， 看 完 < sunny> 我 只 能 说 我 找 回 了 < 我 的 野蛮 女友 > 的 哭 的 状态 ， 不 多 说 了 ， 个人 还是 强烈 推荐 这 部 韩国 的 青春片 。
+	</Content>
+</Post>
+
+<Post ID="36">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	paris fashion week 2012 f/w_山本耀司 。 今天 侥幸 得到 去 看show 的 机会 ， 得到 最 大 的 感慨 有 两 点 。 其一 ， 我 果真 是 不 适合 学 设计 的 。 其二 ， 想 融入 这 个 圈子 最 需要 的 是 钱 。
+	</Content>
+</Post>
+
+<Post ID="37">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	白木屋 晚饭 ， 过年 手机 坏掉 的 伤 不 起 ， app store绝 壁黑店 我 在 这里 :
+	</Content>
+</Post>
+
+<Post ID="38">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	又 是 新 的 一 周 ， 又 是 忙day ， 再 坚持 坚持 ， 就 要 放假 了 ， 我们 需要 好 的 开始 也 需要 好 的 收尾 ， 千万 不 要 松懈 哦 ！ 今天 是 农历 小年 ， 99度 社区 在 这 给 大家 拜 个 早年 ， 祝 您 在 新 的 一 年 里 身体 健康 ， 合家 欢乐 ！
+	</Content>
+</Post>
+
+<Post ID="39">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	吃 饱 了 ， 不 睡 ， 要 hold住
+	</Content>
+</Post>
+
+<Post ID="40">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	越 听 越 带感 ， 停 不 下来 了 orz     爱杀 宝贝 ed 中毒 洗脑 循环 动画   up主 ： 坂田 神乐
+	</Content>
+</Post>
+
+<Post ID="41">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	maybe看 完介 部剧 ， 不 敢 再 粗草 莓 了 。 。
+	</Content>
+</Post>
+
+<Post ID="42">
+	<Happiness>
+	BOTH
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	估计 是 今天 穿 了 件 喜庆 的 红毛衣 的 缘故 ， 本来 就 很 庆幸 作为 才 入职 不 到 一 个 星期 的 新 老师 就 蹭 到 新东方 的 年饭 ， 更 happy 的 是 还 两 次 中奖 ， 一 个 军刀 ， 一 份 中国 银行 珍藏版 人民币 ， 哈哈哈哈哈 ， 2012火 起来 ！
+	</Content>
+</Post>
+
+<Post ID="43">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	下午 1点45分 的 航班 ， 我 现在 就 起床 咯 ， 都 怪 昨晚 懒得 整理 我 的 行李 。 打开 衣柜 好多 我 的 名牌 大衣 ， 不 知道 要 带 哪些 ？ 本 想 去 张家界 看看 有 没 有 lv ， 但是 估计 那个 穷人 满 街 的 地方 没有 ， 还 带有 乡土气息 哦 ， 亲 ！  我 随便 带 一 件 睡衣 ， 都 比 湖南 女fashion ！ 我 身上 的 睡衣 随便 一 条 线 ， 都 是 意大利 材质 的 ， 适合 我 这 种 贵妇 ！
+	</Content>
+</Post>
+
+<Post ID="44">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	额滴 个 神 ， 澳网 的 比赛 是 一 场 比 一 场 纠结 啊 ， 小 德 你 可是 浪费 了 太 多 的 机会 了 ， 另外 感觉 有 几 个 关键 球貌 似 纳豆 出界 了 但是 线审 没 喊out ， 还 看 不 看 第五 局 呢 ？ 都 五 个 小时 了 这 比赛 。
+	</Content>
+</Post>
+
+<Post ID="45">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	悲伤 的 时候 听 多么 欢乐 的 曲子 都 止 不 住 流泪 … … 实在 过分 啊 。 居然 出来 error503 的 字样 ， 网站 给 瘫痪 了
+	</Content>
+</Post>
+
+<Post ID="46">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	『 pakho 、 亲 ， 和 我 聊天 是 不 是 都 很 开心 呢 。 新年 希望 我 身边 的 朋友 都 开心 呢 ， 狂欢 吧 。 party time 。 』 识 我 但 系 又 未 加 我 噶同 学仔 可以 加 我 呢 。 但 系 要 写明 你 系 边 个 哦 。 ： 609665346 ↙
+	</Content>
+</Post>
+
+<Post ID="47">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	今晚 和 同学 疯狂 一 晚 ， 明天 上班 去 鸟 ， ， ， 还 没 聚会 就 先 醉 了 ， ， 在 家 锻炼 白酒 中 。 。 。 献上 一 张 玉 女照 ， 哥 不 洗头 不 face care照 旧 天生 丽质 。 。 。
+	</Content>
+</Post>
+
+<Post ID="48">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	一眼望去 ， 整个 研发 部门 都 在 赶做 office 作业 的 场景 ， 仿佛 就 像 在 学校 机房 里 上课 。 怀念 还是 学生 的 日子 ， 怀念 玩 小霸王 的 时光 。 渴望 成长 ， 渴望 获得 强大 的 力量 。  \\ ( ≧ ▽ ≦ ) / 2012年 绝 不 会 是 未日 ， 因为 多 啦a梦 说 它 来自于 2070年 。 《 童话 的 守护 之 力 》 -- 01月 11日 ， 下班 随记 。
+	</Content>
+</Post>
+
+<Post ID="49">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	纳达尔 是 费德勒 一生 的 天敌 ， 而 那么 能 跑 的 纳豆 的 腿 在 小德 面前 也 近乎 灌 了 铅 ， 体育界 的 天 敌链 是 相当 强悍 而 又 准确 的 法则 ， 依据 该 法则 ， bet 公司 很 受伤
+	</Content>
+</Post>
+
+<Post ID="50">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	dsquared2 的 这些 新look 很多 单品 已经 在 今年 都 很 热 了 呀 ! ! 国外 设计师 是 不 是 也 经常 逛 国内 商场 呀~~~~~~
+	</Content>
+</Post>
+
+<Post ID="51">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	BOTH
+	</Surprise>
+	<Content>
+	今天 eher 是 崛起 了 么 ？ god 、 打开 微博 ， 布满 了 这么 多 年 来 偷情 的 痕迹 ， 亦或是 说 众所周知 的 地下 情 ？ 大家 成群结队 地high 起来 了 啊 ， 可能 过 段 时间 别 个 就 透露 个 结婚 的 消息 ， 然后 大家 世界 又 瞬间 轰然 倒塌 ！ 俩 孩儿 简直 可以 继续 晒 幸福 没关系 ， （ 高兴 到 疯 ） 总 比 （ 桑到 要 死 ） 要 爽 很多 不 是 么 ！  好 ， 完毕 ， 谢谢
+	</Content>
+</Post>
+
+<Post ID="52">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	去 释放 心灵 的 地方 ， 在 远 也 不 怕  let's  go
+	</Content>
+</Post>
+
+<Post ID="53">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	哪儿 有 ncis 的 第一 季 啊 ？ 想proper 的 追 一下 ... 不 要 告诉 我 只 能 买碟 阿......
+	</Content>
+</Post>
+
+<Post ID="54">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	果然 hold住 这 种 词 还 是 会 出现 在 春晚 啊 ... 还是 强烈 期待 督主 大大 好 了 。 。 。
+	</Content>
+</Post>
+
+<Post ID="55">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	今天 还 好 ， 准点 下班 愉快 ， 小默 不 太 开心 ， 因为 强行 喂药 又 不 给 吃 的 又 不 和 她 说话 ， 现在 正 在 睡觉 ， 自己 做 了 咖喱 鸡 ， 结果 咖喱 酱弄 在 了 新 买 的 粉色 睡衣 上 ， 心疼 ， over ！
+	</Content>
+</Post>
+
+<Post ID="56">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	今天 要 去 民间 买 个 新 的 尾戒 ， 去 家乐福 看看 电饭煲 的 价格 ， 再 把 三 套 锅拎 回家 ， 什么 大 米 啊 ， 各 种 该 买 的 买 一下 。 自己 mark下 ~
+	</Content>
+</Post>
+
+<Post ID="57">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	morning ， 早上 起来 到 现在 气管 一直 很 不 舒服 ， 看来 最近 要 抓紧 治疗 我 滴气 管 了 …
+	</Content>
+</Post>
+
+<Post ID="58">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	BOTH
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	真 是 越来越 冷 了 ， 冻 的 我 睡 不 着 觉 ， 只 想 蜷缩 到 一 块 。 我 深深 感觉 到 南 北方 的 差距 。 my god 冷 啊 。
+	</Content>
+</Post>
+
+<Post ID="59">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	亲爱 的 朋友 and 家人 ， 我 想 对 你 说 ， 我们 在 彼此 的 陪伴 下 走过 了 5 个 年头 了 。 这 之 中 ， 有 争吵 ， 有 眼泪 ， 有 理解 ， 有 埋怨 ， 有 欢笑 ， 有 兴奋 。 。 。 太 多 的 原因 。 我 只 想 告诉 你 ， 你 是 我 的 亲人 ， 是 我 的 姐妹 ， 是 我 的 依靠 。 我 可以 没有 男朋友 ， 但 不 能 没有 你 的 陪伴 。 希望 你 新 的 一 年 ， 能 开心 ， 快乐 ， 健康 ， 所有 的 愿望 成 真 ！
+	</Content>
+</Post>
+
+<Post ID="60">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	over 。 感慨 。 新 时代 铝性 不 易 做 。 要 出 厅堂 ， 下 厨房 ， 能 帮忙 ， 会 拍照 ， 还 要 适时 耍 矫情 ， 懂 幽默 ， 淫 一 手 好湿 。 。 。 一 把 瘟疫 一 把 家常 ， 一 把 纯 禽 一 把 牛盲 。 哈 。 笑 过 便 算 ~ 各位 晚安 。 祝好 梦 。 over 。
+	</Content>
+</Post>
+
+<Post ID="61">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	刷机 有 风险 。 越狱 请 小心 ， 今天 好不容易 把 变成 touch 的 手机 刷 了 回来 ！ 郁闷 啊 ！ 不 是 白 苹果 就 是 变板 砖 啊 ！
+	</Content>
+</Post>
+
+<Post ID="62">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	太 不 容易 了 谁 赢 都 是 hero 诺瓦克 加油 啊 啊 啊 啊
+	</Content>
+</Post>
+
+<Post ID="63">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	明天 second in ， 现在 还 没有 冲凉 ， 要 不 要 敷翻 个 mask ?
+	</Content>
+</Post>
+
+<Post ID="64">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	上班 就 是 各 种 囧 ， 不 知道 这样 的 状态 久 了 ， 会 不 会 对 自己 的 文字 产生 厌倦感 。 曲 小 丫 hold住 ~ hold住 ~ 一定 得 hold住 ~~~~~
+	</Content>
+</Post>
+
+<Post ID="65">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	好 丢人 。 。 怎么 会 有 这 种 想法 呢 ？ 活 得 有 点 太 卑微 了 吧 ！ 不 可以 ， 这 不 是 你 ！ 要 做 最 坚强 的 泡沫 。 。 hold住 ～ 我 要 高傲 的 活 着 。 。 。
+	</Content>
+</Post>
+
+<Post ID="66">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	一月 新番 。 。 。 钉宫 傲娇 萌零之路易斯 也 终于 第四 季 了 ， 完 结季 啊 ~ ~ final 。 。 。 才 人 真 是 越来越 肆无忌惮 了 ~ 话说 夏娜 的 第三 季 我 也 才 看 了 没 几 集 = _ = 。 。 。 三千院 大 小姐 不 知 啥 时候 还 能 出 啊
+	</Content>
+</Post>
+
+<Post ID="67">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	【 无解 的 黑房 胖 柔&ogc 联手 驰骋 公正 pk场 】 元素 换成 崔姐 就 更 猛 了 。  胖柔 意识 太 神棍 了 ， 各 种 预判 提前 抓 ， 不过 这 局 打 下来 似乎 miss 非常 多 ， 胖 柔rp 不 咋 好 呢 ogc 依旧 还 是 猛攻 的 打法 ， 压得 对面 只 能 被动 反击 。  温馨 提示 ...
+	</Content>
+</Post>
+
+<Post ID="68">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	好久 没 三 国 杀online 了 额 账号 都 忘 了 ， 仙剑 都 打 得 想 吐 ， 去 魔兽 阿柴 睡 了 = = ！ 大过 年 的 这 是 要 闹 那样 。 看 邪恶 小 漫画 好 了 。
+	</Content>
+</Post>
+
+<Post ID="69">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	MIXED
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	在 哪里 重要 么 ？ 各 种 不 重要 重要 的 是 。 。 。 我 冷 的 hold 不 住 ， 我 累 的 hold 不 住 。 。 。 我 倦 得 hold 不 住 。 。 。 我 不 想 动 ， 不 想 走 ！
+	</Content>
+</Post>
+
+<Post ID="70">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	海珠 广场 附近 广州 宾馆 三 楼 的 银 灯 食府 早 茶 绝对 五星 ， 除了 虾饺 我 只 给 四 星 ， 其他 都 perfect 。 凤爪 非常 入味 ， 也 不 会 太 烂 ； 芝士 虾 卷单 吃 是 外酥 里 嫩 ， 沾 了 芝士 则 是 完全 另外 一 番 风味 ； 最 推崇 的 是 绿 茶 桂花糕 ， 色 香味俱全 ， 口感 很 好 ， 也 不 会 过腻 。
+	</Content>
+</Post>
+
+<Post ID="71">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	long long ago ， 我 跟 一 个 傻瓜 说 我 喜欢 吃 山楂糖 ， 开玩笑 要 她 买 一 包 大 的 给 我 。 结果 她 赶紧 到 超市 买 给 我 ， 可 我 当时 在 学校 。 我 以为 会 吃完 了 ， 没 想到 一直 留 着 。   我 舍 不 得 吃 怎么办 ？
+	</Content>
+</Post>
+
+<Post ID="72">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	被 虐惨 了 。 希望 部长 大人 能 手下 留情 什么 的 ， 希望 越 前 别 被 虐倒 在 地 什么 的 另外 看到 仁王 被 暗算 还是 暗爽 了 一下 ， 深 仇 大恨 怎 能 忘 啊 ， 相反 比较 想 看见 白石 。 发现 现在 的 孩纸 都 帅 了 很多 而且 open 了 很多 ， 腿 都 是 又 细 又 长 ， 揪心 啊
+	</Content>
+</Post>
+
+<Post ID="73">
+	<Happiness>
+	BOTH
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	交班 了 ， 真 是 连 一 分钟 都 不 愿意 多 待 ， 什么 事 啊 ， 伺候 一 晚上 主任 的 关系 户 ， 劳心 费力 半天 到 了 还给 转走 了 ！ 很 感谢 二 线 大夫 ， 负责 又 nice ！
+	</Content>
+</Post>
+
+<Post ID="74">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	到家 了 。 在 吃 老坛 酸菜 。 之前 不 知道 在 哪 喝 的 老酒 。 伏特加 了 啤酒 了 干特 干特 ！ 3点 去 88 吧 台 报 了 个 道 。 anyway 。 管 它 喝 了 伤 肝 还 是 伤心 。 和 女人 在一起 就 是 无比嗨森 呀 。
+	</Content>
+</Post>
+
+<Post ID="75">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	EN
+	</Surprise>
+	<Content>
+	太 外婆 一 句 话 又 shock 我 了 ： 妹妹 啊 ~ ~ 写 字板板 坏 喽 ！ 老太婆 我 在 查新华 字典 打 拼音 哦 ， 你 有 问题 问 哦 ， 要 很 久 很 久 答喽 。
+	</Content>
+</Post>
+
+<Post ID="76">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	孝顺 的 你 一定 要 看 下去 哦 我 都 看 哭 了 | < p > < font size=6 > 我 看 过去 的 时候 ， 有 个 老头 正 盯 着 我 ， 旁边 还 有 个 老太太 ， 发现 我 看 着 他们 时 赶忙 低下 头 。 我 不 认识 他们 但 也 不 象 要 饭 的 ， 衣服 是 新 的 连 折印 都 看 得 出来 。 妈 说 象 要饭 的 是 他们 佝偻 着 身子 ， 老太 的 身边 倚
+	</Content>
+</Post>
+
+<Post ID="77">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	看好 多 微博 都 在 猜李思思 的 后台 ， 原来 现在 拼 爹 己 经out 了 ， 开始 拼老 公公 了 ??????
+	</Content>
+</Post>
+
+<Post ID="78">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	承认 自己 所 具备 的 人性 弱点 不 是 件 容易 的 事 ， 偶而 发现 自己 的 问题 而 羞于 面对 ， 甚或 找出 种种 借口 来 原谅 自己 倒 是 常 有 的 事 。 所以 这 世人 圣人 甚 少 ， 凡人 太 多 ， 这 便 是 原因 了 。  —— 看到 瞌睡虫 的 博文 《 day 24 无法 限量 的 心 》 有感 而 发 的 评论 。
+	</Content>
+</Post>
+
+<Post ID="79">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	结果 说 是 线路 问题 然后 给 我 修 线路 的 电话 ， 大叔 说 这 是 yamap 的 电话 ， 打 了 yamap 就 过来 帮 你 修 电脑 了 … … … … … … 还 问 我 买 了 啥yamap 的 东西 ， 然后 那个 女 店员 就 指 着 电脑 说 是 偷 西瓜 么 … … … … 然后 大叔 很 high 的 继续 说 yamap ， 还 说 明天 线路 要是 还 修 不 好 就 打 电话 给 yamap说 电脑 坏掉 了 … … … … … …
+	</Content>
+</Post>
+
+<Post ID="80">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 在 air canada lounge 。 洛杉矶 加航 与 国航 共用 贵宾室 ， 环境 不 如 北京 ， 伙食 一般般
+	</Content>
+</Post>
+
+<Post ID="81">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	重新 开始 看 how i met your mother ， 又 陷入 了 关于 友谊 关于 六 人 行 的 幻想 中 ， 有些 话 不 能 说 得 太 漂亮 ， 友情 啊 爱情 啊 ， 其实 距离 很 重要 。
+	</Content>
+</Post>
+
+<Post ID="82">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	BOTH
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 要 好好 反省 自己 。 说到 必须 做到 没 诚信 做 不 了 大 事 并且 耽误 事 ！ sorry让 您 生气 了 对不起
+	</Content>
+</Post>
+
+<Post ID="83">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	【 分手 后 立刻 后悔 星座 】 top5 ： 天秤 （ 对 任何 事 都 摇 摆不定 ） ； top4 ： 巨蟹 （ 总是 把 心事闷 在 心里 ， 分手 后 觉得 根本 无法 承受 这 种 痛楚 ） top3 ： 水瓶 （ 做事 不 会 经过 太 多 考虑 ， 会 莫名其妙 的 念头 ） top2 ： 双子 （ 有时 自己 都 搞 不 清楚 自己 不 是 不 爱 着 ） top1 ： 射手 （ 常常 凭 自己 的 直觉 去 判断 是非 ）
+	</Content>
+</Post>
+
+<Post ID="84">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	今天 去 看 了 喜 与 灰之大闹龙 宫 ， 好多 台词 都 很 有 特色 ， 如 ： 有 木 有 ， hold住 ， 亲 。 。 。 。 建议 各位 也 去 看看 哈 。 。 。 。
+	</Content>
+</Post>
+
+<Post ID="85">
+	<Happiness>
+	BOTH
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	今天 老 高兴 了 ～ 其实 这样 的 日子 真的 很 好 ， 不 在意 烦恼 ， 不 在 意忧愁 ， 只 需 嘻嘻哈哈 ， 开怀大笑 ， 还 有 几 个 一起 high 的 好 朋友 ～ 能 遇上 你们 真的 是 我 的 福分 呐 ～ 哈 ～
+	</Content>
+</Post>
+
+<Post ID="86">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	以前 三 里 屯 的 酒吧 很 耳熟 能 详 ， 这 几 年 酒吧 街旁 的 village火 了 ， 形态 各 异 的 建筑 、 丰富 的 餐饮 影院 百货 店铺 、 来来往往 的 各 色人 种 ， 自成 一 景 。
+	</Content>
+</Post>
+
+<Post ID="87">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	讨厌 。 。 。 hold 不 住 的 两 只 ， 起床 爱心多多 早安 。 。 。
+	</Content>
+</Post>
+
+<Post ID="88">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	哥hold 不 住 了 ， 哥 要 睡觉 ！
+	</Content>
+</Post>
+
+<Post ID="89">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	分享 图片 春晚 老毕 第一 次 。 激动 不 已 抢词 要 ...hold 住
+	</Content>
+</Post>
+
+<Post ID="90">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 在 visual bar 。 今儿 晚上 就 这儿 了 ， 不 醉 不 归 ....
+	</Content>
+</Post>
+
+<Post ID="91">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	难得 今天 这个 点 就 困到 睁 不 开 眼 了 ， 我 要 早睡 早起 ， 不要 脸部 浮肿 ！  睡觉 ... dear dream see ！  
+	</Content>
+</Post>
+
+<Post ID="92">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	现在 的 工作 状态 有点 像 survivor期 待jeff 宣布 合并 。 刚送 走 一 个 小 姑娘 之后 ， 现在 一 个 老 姑娘 胎儿 问题 保 不 住 要 引产 ， 年 后 还 要 和 少 了 一 个 孕妇 的 绍兴 合并 。 。 。 人力 严重 不足 ， 都 在 期待 招新人 。 不过 大家 真 是 想 多 了 ， 即使 有 新人 也 没 那么 快 到位 。 今年 有 挑战 ， 我 要 兼并 绍兴
+	</Content>
+</Post>
+
+<Post ID="93">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	最近 怎 麼總 是 失眠 大家 一起 沒 得 睡 有 時候 短信 剛好 擱置 發 不 出去 就 剛好 ， 可以 早點 睡 。 身邊 有 個經 常 胃痛 的 女人 真 是 大壓力 好 了 明天 開始 要 早 睡 了 ！ 晚安apple orange grape egg bread milk ...
+	</Content>
+</Post>
+
+<Post ID="94">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	额 。 全 都 考完 了 。 只是 ， 没 想象 中 的 那么 开心 。 好 吧 。 考 什么样 算 什么样 了 。  出去 happy一 晚上 ， 明天 回来 竟 还 有 一 堆 事情 要 亲自 处理 啊 。 我 怎么 这 多 事 呢 ？ ？ ？ ？  啊 啊 啊 啊 啊 啊 。 崩溃 。 出去 happy 吧
+	</Content>
+</Post>
+
+<Post ID="95">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	啊 ！ 太 舒畅 了 ~ 虽然 带有 一些 点 的 失望 ， 但 整体 感觉 不 能 不 用 好 来 形容 。 是 该 放下 的 时候 了 ， just anyone~
+	</Content>
+</Post>
+
+<Post ID="96">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	我 在 outlet city metzingen 。 hugo boss 的 东西 太太太 便宜 了 ， 老公 买 了 三 条 牛仔裤 才 2000元
+	</Content>
+</Post>
+
+<Post ID="97">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	一 群 穿 着 旗袍 的 美女 在 南京 地铁 里 走秀 ， 让 市民们 大饱眼福 。 美女们 曼妙 的 身材 和 各 种 精彩 的 pose ， 让 不少 市民 忍 不 住 掏出 手机 拍下 这 特别 的 一 刻 。
+	</Content>
+</Post>
+
+<Post ID="98">
+	<Happiness>
+	EN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	有时候 ， 真 不 知道 你 在 想 什么o_o 短 也 是 很 不错 的 ～ i like it
+	</Content>
+</Post>
+
+<Post ID="99">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	是 因为 药 的 缘故 吧 ， 这 阵子 特别 容易 困 。 不 失眠 真 好 ， good night 。
+	</Content>
+</Post>
+
+<Post ID="100">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	MIXED
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	饥饿 中 逛 超市 的 后果 。 。 。 。 这 就 是 我 大学 时 吃 饱 了 再 去 超市 的 原因 ， 用 咱 总理 当然话 说 ： hold 不 住 呀
+	</Content>
+</Post>
+
+<Post ID="101">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	【 人类 已经 无法 阻止 苹果 了 】 iphone 5 是 防水 的 或 将 在 六月 发布 ， 果粉们 你们 还 hold住 吗 ？ 不 怕 摔 ， 不 怕 水 ， 强大 的 iphone 啊 ， 我 的 肾 哪
+	</Content>
+</Post>
+
+<Post ID="102">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	flash 之 死 adobe 公司 决定 停止 面向 移动 浏览器 的 flash 开发 工作 ， 但 导致 flash 最终 失败 的 原因 却 不 甚 明朗 。 visionmobile特 邀 作者 francisco kattan 撰文 就 导致 flash 消亡 的 一连串 事件 进行 了 分析 。
+	</Content>
+</Post>
+
+<Post ID="103">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	flash 之 死 --adobe 公司 决定 停止 面向 移动 浏览器 的 flash 开发 工作 ， 但 导致 flash 最终 失败 的 原因 却 不 甚 明朗 。 visionmobile特 邀 作者 francisco kattan 撰文 就 导致 flash 消亡 的 一连串 事件 进行 了 分析 。
+	</Content>
+</Post>
+
+<Post ID="104">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	morning 起来 好晚 啊 . . . 今天 就 不 跑 了 . . . 话 说 买 衣服 真的 是 见 困难 的 事 . . . 为什么 好看 的 衣服 都 是 女装 ... 唉 ...
+	</Content>
+</Post>
+
+<Post ID="105">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	hi-tec高 科技 。 说 不 是 在 搞 都 难
+	</Content>
+</Post>
+
+<Post ID="106">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	greyson chance 混到 现在 终于 在 中国 有 了 一点 起色 其实 我 觉得 他 的 唱功 他 的 声音 比 碧婆 好 一百 倍 啦lol 只 是 他 长 得 太 萌 了 萌物 成 不 了 大气候 。
+	</Content>
+</Post>
+
+<Post ID="107">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	BOTH
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	明 知道 明早 要 早起 ， 明 知道 不 能 玩 那么 晚 。 但 偏偏 就 这么 做 了 。 。 。 why ?
+	</Content>
+</Post>
+
+<Post ID="108">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	六点 了 ， 还 在 做梦 ， 就 要 起来 跟 我 。 万恶 的 考试 i am here :
+	</Content>
+</Post>
+
+<Post ID="109">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	2号 线 已 在 人民 广场 站 停留 5 分 多 钟 … 不 会 故障 again 了 吧 … …
+	</Content>
+</Post>
+
+<Post ID="110">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	high过 之后 冷静 下来 想想 ， 这 真的 是 我 要 的 么 ？ 不 是 ！ ！ ！
+	</Content>
+</Post>
+
+<Post ID="111">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	BOTH
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	tmd诡异 的 世界 ， 我 已经 不 太 想 待 了 ， 神经病 嘛 我 ， 过去 的 坚持 还 真 是 无谓 ， 结果 就 是 需要 自我 认识 是 疯子 才 合理 ， 要 什么 mate干 嘛 。
+	</Content>
+</Post>
+
+<Post ID="112">
+	<Happiness>
+	EN
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	2012年 的 第一 场 雪 ， 今天 起 得 蛮 早 ， 因为 下雪 了 happy ， 抱 着 贝贝 跟 粑粑视 完频 ， 小 东西 又 在 耍赖 皮 ， 我 可能 抱 他 的 时候 太 用劲 ， 把 孩子 的 胳膊 弄疼 了 ， 从来 不 大 哭 的 宝贝 哭 得 稀里哗啦 的 ， 我 想 ， 完 了 ， 八 成 弄 着 胳膊 了 ， 哭 的 我 和 他 奶奶 心 都 碎 了 ， 又 不 敢 碰 他 ， 但是 看 他 胳膊 还 能 动 ， 但 就 是 哭 ， 我们 赶紧 抱 着 他 去 医院
+	</Content>
+</Post>
+
+<Post ID="113">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	在 深圳 居然 能 看到 green day 的 cd ， 太 不 可 思议 了 ~
+	</Content>
+</Post>
+
+<Post ID="114">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	仿佛 又 回到 了 那个 时候 ， 不 想 说话 ， 心里乱七八糟 的 胡乱 感叹 着 everything...... 没 人 陪 啊 . ..... 只 是 想 找 个人 陪 我 而已 ... 此刻 ， 烟花 绚烂 于 窗 前 ， 很 美 ， 而 散开 后 却 又 是 无尽 的 凄凉 。 就 仿佛 我们 的 青春 ， 刹那 绚丽 ， 终 将 老去 ...
+	</Content>
+</Post>
+
+<Post ID="115">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	起床 ！ 起床 ！ 去 大 舅家 吃团 年饭 了 ！ ！ 同志们 ！ ！ 新年 快乐 ！ ！ 龙马 精神 ！ 龙凤呈祥 ！ 都 不 要 lonely ！
+	</Content>
+</Post>
+
+<Post ID="116">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	是 不 是 过 了 明天 大家 都 要 see you  goodbye ?
+	</Content>
+</Post>
+
+<Post ID="117">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	someday い つか 会 える 运命 の someone you love ふ と気 がつ けば ほら ね 君 の そば にい る 君 の そば にい る you'll meet your only one 有时候 相信 ， 有时候 又 觉得 可能 一辈子 都 找 不 到 就 结束 了 。
+	</Content>
+</Post>
+
+<Post ID="118">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	BOTH
+	</Surprise>
+	<Content>
+	omg … hung 老太 这 又 是 哪 门 乐趣 … 要 拉偶 在 office跳舞 给 她 看 … 偶要 睡觉 呀 … 完 了 完 了 ， 感觉 以后 肯定 没 完没了 了 ， 事情 多多 …
+	</Content>
+</Post>
+
+<Post ID="119">
+	<Happiness>
+	EN
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	现在 还 在 鹤山 姑姑 家 ， 葫芦娃 今天 玩 一 天 简直 太 high 了 ， 不过 想起 明天 要 上班 了 ， 又 开始 低落 了 。 这 好 日子 也 过 得 太 快 了 。
+	</Content>
+</Post>
+
+<Post ID="120">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	在 我们 宾馆 楼下 对面 就 有 一 个 24 小时 营业 的 seven eleven ， 在 里面 买 了 张红色 的 电话 卡 ， 买 成 15 新 ， 里面 有 18 新 话费 ， 国际 长途 好像 是 8 分 钱 一 分钟 ， 很 经打 ， 打 了 几 天 都 还 剩 一半 的 话费 ！ 楼下 还 有 换 钱 的 地方 ， 不过 这里 的 汇率 没有 机场 划算 ！
+	</Content>
+</Post>
+
+<Post ID="121">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	各 种 工作 都 有 要 做 必要 的 功课 ， 对 么 ？ 「 穿戴 朴素 的 文艺 女 青年 」 的 功课 ， 2012 的 更 多 功课 ， 就 是 听 那些 不 常 听到 的 歌 ， 寻 那些 落 了 土 的 但 只要 拂去 尘埃 就 惹 的 耳痒 的 nice songs. 这个 点儿 ， 就 先 轻松一会 吧 ， 跟 随 北京 音乐 广播
+	</Content>
+</Post>
+
+<Post ID="122">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	MIXED
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 的 macbook 真的 要 退役 了 吗 ？ 连备份 都 hold 不 住 了
+	</Content>
+</Post>
+
+<Post ID="123">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	最近 成 日俾人 唠叨 嫌 我 成日 麻烦 某 人 心里 觉得 很 委 屈 禽 晚因 到 受 某些 事 的 影响 下 最终 仲系 hold吾 住 了 讨厌 自己 的 脆弱 明 知 不 可能 的 仲系 甘脆 弱 好好 清醒 一下 了 吾 系 仲有 更 多 的 苦 要 受
+	</Content>
+</Post>
+
+<Post ID="124">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	想 不 到 这个 折腾 了 10多 个 小时 的 酒醉 病患 最后 要 以 call白车 终结 。 好 累好 困好饿 。 。
+	</Content>
+</Post>
+
+<Post ID="125">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	鑫哥 太 high 啊 ！ high到 现在 还 在 唱 《 伤 不 起 》 ！ 太 乖 啊 ！ 跟 他 在一起 。 总是 很 开心 ~ ！
+	</Content>
+</Post>
+
+<Post ID="126">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	吃 年饭 。 其实 ， 不 想 去 。 但 ， 同事 说 一定 要 去 ， 而且 ， 还要 让boss 的 钱 包出 大窟窿 ！
+	</Content>
+</Post>
+
+<Post ID="127">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	在 发布 新 一 期 搞笑 集锦 前 ， 可以 先 看 一下 why allways me 第三 季 ， 各 种 蛋疼 不 进球 ， 当然 在 临门 一 脚 前 的 那些 操作 还 是 非常 赞 的 。
+	</Content>
+</Post>
+
+<Post ID="128">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	MIXED
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	昨天 陪t 某某 谈 的 有 点 小 晚 ， 现在 又 要 早起 ， 完全 hold 不 住 了 ！
+	</Content>
+</Post>
+
+<Post ID="129">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	都 回来 了 ， 真 好 。 跟 老 朋友 见面 一如既往 的 和睦 ， 真 好 。 人生 要 有 两 张 储蓄卡 ： 一 张 储存money ， 一 张 储 存friends 。
+	</Content>
+</Post>
+
+<Post ID="130">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	这 年头 甭管 男 的 女的 ， 说话 不 带 点 脏字 ， 不 耍 个 混犯 个 狠 装 个 老 大 ， 好像 out 了 似的
+	</Content>
+</Post>
+
+<Post ID="131">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	CN
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	发表 了 博文 《 i have nothing to do 》 - 下 一 步 该 怎么 走 ？ 我 不 知道 ， 开始 慌 了 ， 晃 一 晃 眼四 年 就 要 结束 了 。 关于 工作 ， 一筹莫展 ； 关于 爱情 ， 不 敢 想象 ； 关于 家庭 ， 真 想 冷笑 ......   我
+	</Content>
+</Post>
+
+<Post ID="132">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	都 谁 在 玩儿 path ？ 我 是 不 是 out 了 ？
+	</Content>
+</Post>
+
+<Post ID="133">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	BOTH
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	今天 下午 在 外麵 發傳單 、 風挺 大 、 很 冷 。 想 了 很多 很多 事情 。 隔壁 店子 的 音箱 裡流 淌出 「 暖暖 」 。 我 想 說其實 你 很 好 、 你 自己 卻 不 知道 。 i miss you .
+	</Content>
+</Post>
+
+<Post ID="134">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	不 化妆 就 跑 出去 吓人 ， 不过 某 人 在 包厢 里 还 是 抱 得 我 紧紧 的 ， 好 感动 好 幸福 ， 还有 几 天 就 要 回 桂林 了 ， miss u ， 没有 想 过 太 多 我 只 需要 你 ， 恋爱 大过 天 ， 想 不 想 也 日 夜 怀恋
+	</Content>
+</Post>
+
+<Post ID="135">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	半夜 了 都 、 本宅 还 坐 在 电脑 前 同步 小i 、 、 、 累使 = = 待会 再 弄 会 black ★ rock shooter 、 、
+	</Content>
+</Post>
+
+<Post ID="136">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	versace 2012-13 fall/winter menswears 拼花俏 ？ 其它 品牌 在 versace面 前 都 不 够 看 不 够 骚 不 够 俗
+	</Content>
+</Post>
+
+<Post ID="137">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 在 库 巴 购物 网coo8 发现 了 一 个 非常 不错 的 商品 ： 三星 （ samsung ） 10.1 英寸 智能 平板 电脑 galaxy tab p7510 （ 16gb wlan版 ） 白色 ， 库 巴价 ： 3668.0 。 感觉 不 错 ， 分享 一下 喽 ！
+	</Content>
+</Post>
+
+<Post ID="138">
+	<Happiness>
+	EN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	good night beautiful world. you are always amazing. 哀 家 就 要 就 寝 ， 哀家 在 此 发誓 ， 明天 一定 要 准时 七点四十 起 床 。
+	</Content>
+</Post>
+
+<Post ID="139">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	MIXED
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	介 个 月 的 套餐 要 不 要 用 的 介么 快 hold住 未来 的 日子 只 彩信 你们 了 ！
+	</Content>
+</Post>
+
+<Post ID="140">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	上课 中 ， 快 被 学生 气死 了 ， too...to句型 讲 了 n 遍 了 ， 还 做 错 ！ ！ 最 主要 的 是 还 自我 感觉 良好 ， 死 不 承认 不 会 。 。 。 一直 有 手 梳理 他 油腻 的 全 是 头皮屑 的 刘海 ， 真是 要 疯 了 ！ ！ ！
+	</Content>
+</Post>
+
+<Post ID="141">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	连续 看 了 三 天 running man~~?? ?? ?? ? ?? ?? ? ?? ! ! ! leessang 的 歌质 量 很 好 ， 可是 hip-pop始终 不 是 我 的 菜 啊 。 。 。 ╮ ( ╯ ▽ ╰ ) ╭
+	</Content>
+</Post>
+
+<Post ID="142">
+	<Happiness>
+	BOTH
+	</Happiness>
+	<Sadness>
+	CN
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	10:00 a.m. 准时 到达 锦州站 。 到家 ， 虽然 又 困 又 饿 、 累 得 剩下 半 条 命 ， 但是 精神 很 好 、 high且happy 。 享受 假期 喜 迎 新年 龙行 天下 的 日子 就 要 来 了 。
+	</Content>
+</Post>
+
+<Post ID="143">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	我 妹 说 我 out 了 连 基友 是 什么 意思 都 不 知道 ， 我 真心 承认 我 out 好多 年 了 在 她 的 指教 下 我 终于 明白 啥 叫 基友 了 ~ ~
+	</Content>
+</Post>
+
+<Post ID="144">
+	<Happiness>
+	CN
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	NONE
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	CN
+	</Surprise>
+	<Content>
+	电视 上 在 播3 … 之后 会 播4 … 但是 不 太 清晰 … 待会儿 换dvd 看 吧 … 话 说 … harry说shut up 的 时候 ， 帅呆 了 ！
+	</Content>
+</Post>
+
+<Post ID="145">
+	<Happiness>
+	NONE
+	</Happiness>
+	<Sadness>
+	NONE
+	</Sadness>
+	<Anger>
+	CN
+	</Anger>
+	<Fear>
+	NONE
+	</Fear>
+	<Surprise>
+	NONE
+	</Surprise>
+	<Content>
+	不得不 吐槽 ， mastermind ( without japan ) 啲 质量 真 系 无 得 顶 ， 对于 经常 拿 荷包 的 人 来说 简直 就 是 神物 ， 特别 是 牛仔 裤裤 袋窄 口 的 ， 抽 两 下 就 磨掉 皮 了 。
+	</Content>
+</Post>
+
